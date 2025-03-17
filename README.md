@@ -13,7 +13,7 @@ Unzip the file to `./dataset/`.
         |-- cable
         |-- ....
 ```
-## Training Models
+## Training and testing Models
 - Run code by selecting dataset, category.
 ```
 python train.py --dataset mvtec2d --class-name bottle.
